@@ -1,4 +1,4 @@
-# Parcial_2_JUAN_SEBASTIAN_MARTINEZ_GALEANO
+# Parcial_2_Santiago_Cordoba_Muriel
 
 ![Static Badge](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)
